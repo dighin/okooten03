@@ -9,6 +9,9 @@
     "sanity-start": "sanity start"
   },
   "dependencies": {
+    
+    "@types/react": "^18.0.24",
+    
     "@next/font": "13.0.2",
     "@prisma/client": "^4.5.0",
     "@tailwindcss/typography": "0.5.7",
